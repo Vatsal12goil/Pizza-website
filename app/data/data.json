@@ -1,0 +1,182 @@
+[
+  {
+    "id": "PZA001",
+    "customer": "John Doe",
+    "pizza": "Margherita",
+    "quantity": 1,
+    "orderDate": "2025-05-21 18:30",
+    "status": "Pending",
+    "image": "/pizza.png"
+  },
+  {
+    "id": "PZA002",
+    "customer": "Jane Smith",
+    "pizza": "Pepperoni",
+    "quantity": 2,
+    "orderDate": "2025-05-20 12:15",
+    "status": "Delivered",
+    "image": "/pizza.png"
+  },
+  {
+    "id": "PZA003",
+    "customer": "Alex Johnson",
+    "pizza": "Veggie Supreme",
+    "quantity": 1,
+    "orderDate": "2025-05-21 14:00",
+    "status": "Out for Delivery",
+    "image": "/pizza.png"
+  },
+  {
+    "id": "PZA004",
+    "customer": "Emily Davis",
+    "pizza": "BBQ Chicken",
+    "quantity": 3,
+    "orderDate": "2025-05-22 16:45",
+    "status": "Preparing",
+    "image": "/pizza.png"
+  },
+  {
+    "id": "PZA005",
+    "customer": "Michael Brown",
+    "pizza": "Hawaiian",
+    "quantity": 2,
+    "orderDate": "2025-05-20 10:30",
+    "status": "Cancelled",
+    "image": "/pizza.png"
+  },
+  {
+    "id": "PZA006",
+    "customer": "Sarah Wilson",
+    "pizza": "Paneer Tikka",
+    "quantity": 1,
+    "orderDate": "2025-05-21 20:00",
+    "status": "Delivered",
+    "image": "/pizza.png"
+  },
+  {
+    "id": "PZA007",
+    "customer": "Chris Evans",
+    "pizza": "Mexican Green Wave",
+    "quantity": 2,
+    "orderDate": "2025-05-22 11:20",
+    "status": "Pending",
+    "image": "/pizza.png"
+  },
+  {
+    "id": "PZA008",
+    "customer": "Olivia Taylor",
+    "pizza": "Farmhouse",
+    "quantity": 1,
+    "orderDate": "2025-05-21 13:50",
+    "status": "Preparing",
+    "image": "/pizza.png"
+  },
+  {
+    "id": "PZA009",
+    "customer": "David Lee",
+    "pizza": "Cheese Burst",
+    "quantity": 4,
+    "orderDate": "2025-05-19 15:15",
+    "status": "Delivered",
+    "image": "/pizza.png"
+  },
+  {
+    "id": "PZA010",
+    "customer": "Sophia Thomas",
+    "pizza": "Classic Corn",
+    "quantity": 2,
+    "orderDate": "2025-05-23 09:45",
+    "status": "Out for Delivery",
+    "image": "/pizza.png"
+  },
+  {
+    "id": "PZA011",
+    "customer": "Liam Harris",
+    "pizza": "Tandoori Paneer",
+    "quantity": 1,
+    "orderDate": "2025-05-20 17:00",
+    "status": "Cancelled",
+    "image": "/pizza.png"
+  },
+  {
+    "id": "PZA012",
+    "customer": "Emma Lewis",
+    "pizza": "Double Cheese",
+    "quantity": 3,
+    "orderDate": "2025-05-21 19:00",
+    "status": "Delivered",
+    "image": "/pizza.png"
+  },
+  {
+    "id": "PZA013",
+    "customer": "Noah Walker",
+    "pizza": "Peri Peri Chicken",
+    "quantity": 2,
+    "orderDate": "2025-05-20 14:30",
+    "status": "Preparing",
+    "image": "/pizza.png"
+  },
+  {
+    "id": "PZA014",
+    "customer": "Ava Robinson",
+    "pizza": "Cheesy Margherita",
+    "quantity": 1,
+    "orderDate": "2025-05-21 12:00",
+    "status": "Pending",
+    "image": "/pizza.png"
+  },
+  {
+    "id": "PZA015",
+    "customer": "William Clark",
+    "pizza": "Peppy Paneer",
+    "quantity": 2,
+    "orderDate": "2025-05-22 18:00",
+    "status": "Out for Delivery",
+    "image": "/pizza.png"
+  },
+  {
+    "id": "PZA016",
+    "customer": "Isabella Allen",
+    "pizza": "Deluxe Veggie",
+    "quantity": 3,
+    "orderDate": "2025-05-23 11:10",
+    "status": "Delivered",
+    "image": "/pizza.png"
+  },
+  {
+    "id": "PZA017",
+    "customer": "James Wright",
+    "pizza": "Italian Delight",
+    "quantity": 1,
+    "orderDate": "2025-05-21 08:30",
+    "status": "Cancelled",
+    "image": "/pizza.png"
+  },
+  {
+    "id": "PZA018",
+    "customer": "Charlotte King",
+    "pizza": "Spicy Triple Tango",
+    "quantity": 1,
+    "orderDate": "2025-05-20 19:45",
+    "status": "Preparing",
+    "image": "/pizza.png"
+  },
+  {
+    "id": "PZA019",
+    "customer": "Benjamin Scott",
+    "pizza": "Corn and Cheese",
+    "quantity": 2,
+    "orderDate": "2025-05-21 22:30",
+    "status": "Pending",
+    "image": "/pizza.png"
+  },
+  {
+    "id": "PZA020",
+    "customer": "Amelia Young",
+    "pizza": "Keema Do Pyaza",
+    "quantity": 3,
+    "orderDate": "2025-05-22 20:15",
+    "status": "Delivered",
+    "image": "/pizza.png"
+  }
+]
