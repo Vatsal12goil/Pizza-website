@@ -1,0 +1,21 @@
+# Node.js dependencies
+node_modules/
+
+# Next.js build output
+.next/
+
+# Environment variables file
+.env.local
+.env.*.local
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+
+# Optional: IDE/editor folders
+.vscode/
+.idea/
